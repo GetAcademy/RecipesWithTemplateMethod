@@ -1,4 +1,11 @@
-﻿Loff
+﻿// Pause til 11:05
+
+Muffins
+- Bland alt
+- Ha i former
+- Stek
+
+Loff
 - Bland alt
 - Elt i 15 minutter
 - Hev i 30 minutter
@@ -21,7 +28,7 @@ Kanelsnurrer
 - Bland alt til fyllet
 - Kjevle ut til rektangel
 - Smør på fyll
-- Skær ut og snurr
+- Skjær ut og snurr
 - Hev i 45 minutter
 - Stek på 200 grader i 10 minutter
 
